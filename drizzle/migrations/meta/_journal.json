@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790079418071,
+      "tag": "0000_cinemora_accounts_progress_library",
+      "breakpoints": true
+    }
+  ]
+}

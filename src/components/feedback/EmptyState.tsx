@@ -1,0 +1,1 @@
+import { Film } from "lucide-react";export function EmptyState({title,description}:{title:string;description:string}){return <div className="grid min-h-80 place-items-center text-center"><div><Film className="mx-auto size-9 text-primary"/><h2 className="mt-4 font-display text-2xl">{title}</h2><p className="mt-2 text-sm text-muted-foreground">{description}</p></div></div>}
